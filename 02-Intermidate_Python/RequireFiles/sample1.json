@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 101,
+      "name": "Mohit",
+      "department": "Computer Engineering",
+      "year": 3,
+      "cgpa": 8.14
+    },
+    {
+      "id": 102,
+      "name": "Rahul",
+      "department": "Information Technology",
+      "year": 2,
+      "cgpa": 7.85
+    },
+    {
+      "id": 103,
+      "name": "Priya",
+      "department": "Computer Engineering",
+      "year": 4,
+      "cgpa": 9.02
+    },
+    {
+      "id": 104,
+      "name": "Neha",
+      "department": "ENTC",
+      "year": 3,
+      "cgpa": 8.56
+    },
+    {
+      "id": 105,
+      "name": "Amit",
+      "department": "Mechanical",
+      "year": 2,
+      "cgpa": 7.91
+    }
+  ]
+}
