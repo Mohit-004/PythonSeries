@@ -66,7 +66,7 @@ def start_quiz():
     elif percentage >= 40:
         print("Grade: C")
     else:
-        print("Grade: Fail")
+        print("Grade: Fail...!")
 
 
 start_quiz()
