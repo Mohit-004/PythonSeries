@@ -1,7 +1,7 @@
 number = int(input('Enter the number : '))
 
 evenSum = 0
-oddSum = 0
+oddSu = 0
 
 temp_n = number
 
